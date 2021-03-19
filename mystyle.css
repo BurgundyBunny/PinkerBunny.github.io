@@ -8,3 +8,6 @@ color: navy;}
 
 h3 {background-color: red;
 color: white;}
+
+nav {float: none;}
+nav ul li {list-style-type: none;}
